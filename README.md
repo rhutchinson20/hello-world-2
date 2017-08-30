@@ -1,3 +1,4 @@
 # hello-world-2
 the first line is deleted
-this text on line 3 was added in 2nd-branch
+the info about this line added was overwritten
+and THIS line was added
