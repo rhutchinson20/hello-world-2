@@ -1,2 +1,3 @@
 # hello-world-2
-this is the first line added
+the first line is deleted
+this text on line 3 was added in 2nd-branch
